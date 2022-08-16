@@ -8,6 +8,8 @@ If you don't have PYTHON 3.10:
 
 Go to releases and download the executable, and then run it.
 
+
+
 If you have PYTHON 3.10:
 
 Go to releases and download either the executable OR the .py file, then run them!
